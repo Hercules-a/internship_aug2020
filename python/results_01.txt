@@ -1,0 +1,15 @@
+[5419351.8, 3008925.54, 4361761.9, 4239576.6, 2245399.21, 1691797.63, 1258420.8, 440956.44, 3603029.96, 1715340.4]
+
+[{"name": "Prod1", "amount": 66980, "price": 80.91}, {"name": "Prod2", "amount": 37106, "price": 81.09}, {"name": "Prod3", "amount": 94390, "price": 46.21}, {"name": "Prod4", "amount": 48580, "price": 87.27}, {"name": "Prod5", "amount": 80107, "price": 28.03}, {"name": "Prod6", "amount": 43727, "price": 38.69}, {"name": "Prod7", "amount": 40334, "price": 31.2}, {"name": "Prod8", "amount": 78462, "price": 5.62}, {"name": "Prod9", "amount": 70537, "price": 51.08}, {"name": "Prod10", "amount": 41155, "price": 41.68}]
+
+name, amount, price
+Prod1, 66980, 80.91 
+Prod2, 37106, 81.09 
+Prod3, 94390, 46.21 
+Prod4, 48580, 87.27 
+Prod5, 80107, 28.03 
+Prod6, 43727, 38.69 
+Prod7, 40334, 31.2 
+Prod8, 78462, 5.62 
+Prod9, 70537, 51.08 
+Prod10, 41155, 41.68 

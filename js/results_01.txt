@@ -1,0 +1,15 @@
+2119.59 1148.35 4121.58 9337.68 294.44 15.18 828.8 1390.61 565.08 2082.92
+
+[{"name":"Prod1","amount":99,"price":21.41},{"name":"Prod2","amount":35,"price":32.81},{"name":"Prod3","amount":73,"price":56.46},{"name":"Prod4","amount":99,"price":94.32},{"name":"Prod5","amount":68,"price":4.33},{"name":"Prod6","amount":33,"price":0.46},{"name":"Prod7","amount":64,"price":12.95},{"name":"Prod8","amount":19,"price":73.19},{"name":"Prod9","amount":68,"price":8.31},{"name":"Prod10","amount":86,"price":24.22}]
+
+name, amount, price
+Prod1, 99, 21.41
+Prod2, 35, 32.81
+Prod3, 73, 56.46
+Prod4, 99, 94.32
+Prod5, 68, 4.33
+Prod6, 33, 0.46
+Prod7, 64, 12.95
+Prod8, 19, 73.19
+Prod9, 68, 8.31
+Prod10, 86, 24.22
